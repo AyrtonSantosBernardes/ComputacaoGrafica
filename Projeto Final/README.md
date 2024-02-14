@@ -44,3 +44,5 @@ g++ main.cpp -o main.exe
 - Rotação do cubo de platina sobre o próprio eixo
 
 ## Resultado Final
+
+https://github.com/AyrtonSantosBernardes/ComputacaoGrafica/assets/64613710/9f7e4c3a-11db-458b-a983-0b96bb64fea7
